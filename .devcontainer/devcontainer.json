@@ -1,0 +1,7 @@
+{
+	"image": "msjpq/kde-vnc:bionic",
+
+	"overrideCommand": false,
+
+	"forwardPorts": [8080, 5900]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "lcal",
+  "version": "0.1.0",
+  "description": "Tray application for Chinese calendar",
+  "main": "main.js",
+  "author": "bernardkkt",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.0.1"
+  },
+  "scripts": {
+    "start": "electron --no-sandbox ."
+  }
+}
