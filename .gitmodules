@@ -1,6 +1,3 @@
-[submodule "Calendar"]
-	path = Calendar
-	url = https://github.com/bernardkkt/Calendar.git
 [submodule "src"]
 	path = src
 	url = https://github.com/bernardkkt/Calendar.git
